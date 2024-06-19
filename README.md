@@ -13,3 +13,6 @@ Machine Learning is mainly classified into following types:
 3. Semi-supervised Learning
 4. Reinforcement Learning
 
+When considering the supervised learning in which the target variables are known, it can be used to solve two different types of problems i.e., 
+1. _Regression Problems:_ Here, the target variable is continuous in nature.
+2. _Classification Problems:_ Here, the target variable is categorical in nature. 
