@@ -1,5 +1,4 @@
-# Machine Learning with Scikit Learn
-This repository is based on the course "Machine Learning with Scikit Learn" offered by DataCamp. 
+# Machine Learning with Scikit Learn 
 
 **_Some Important Definitions:_**
 
