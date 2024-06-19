@@ -1,0 +1,14 @@
+# Sequence of steps for executing a machine learning model using sci-kit learn
+
+# First import the desired model 
+from sklearn.module import [Insert name of Model e.g. Model]
+
+#Instantiate the model 
+my_model = Model()
+
+# Fit the training data using the instance of the model you just created
+my_model.fit(X,y) # Here 'X' represents feature variables and 'y' represents the target variable in the traning data
+
+# Predict the outputs of model 
+pred = my_model.predict(X_test)  # Here X_test represents the feature variables for the testing data
+
