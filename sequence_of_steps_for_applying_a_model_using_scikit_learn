@@ -1,7 +1,7 @@
 # Sequence of steps for executing a machine learning model using sci-kit learn
 
 # First import the desired model 
-from sklearn.module import [Insert name of Model e.g. Model]
+from sklearn.[Insert the name of the Module] import [Insert the name of Model e.g. Model]
 
 #Instantiate the model 
 my_model = Model()
